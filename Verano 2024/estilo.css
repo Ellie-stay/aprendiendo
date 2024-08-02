@@ -1,0 +1,26 @@
+body{
+    background: rgb(131, 78, 78);
+    color: pink;
+    text-align: center;
+    }
+.principal {
+   background-color: brown; 
+   padding: 100px;
+   margin: 20px;
+
+    }
+.felix{
+    background: rgb(86, 86, 160);
+    color: rgb(30, 30, 82);
+    text-align: right;
+    padding: 200px 50px;
+    margin: 50px 100px;
+    }
+     
+ .minho{
+    background-color: rgb(144, 172, 103);
+    text-align: left;
+    color: rgb(7, 65, 7);
+    padding: 25px 50px 100px 200px;
+    margin: 25px 50px 200px 100px;
+ }
